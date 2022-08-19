@@ -1,0 +1,12 @@
+body{
+
+}
+.header-reposytory{
+	font-size: 60px;
+	font-style: normal;
+	text-align: center;
+	background: #4682B4;
+	height: 100px;
+	padding-top: 20px;
+	border-top: 5px solid #708090;
+}
